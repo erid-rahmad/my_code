@@ -1,3 +1,5 @@
+//crip ini berguna untuk menghapus data di database dengan menyisakan 3 hari terakhir
+
 LOGFILE=/home/oracle/clearsafTES3.txt
 DATEFORMAT="'Dy DD-Mon-YYYY HH24:MI:SS'"
 
